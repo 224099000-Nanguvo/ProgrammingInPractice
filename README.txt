@@ -75,7 +75,7 @@ A bíblia diz em Isaías 43:2: Quando passares pelas águas, estarei contigo; e 
 Deus sabe que somos frágil para nós apoiarmos Nele que é forte. Deus nos fez de uma matéria frágil porque Ele quer nos dar a total atenção. 
 
 Sempre que tiveres um problema, lembre-se, quanto mais passares nas provas, dificuldades, contínua firme, Deus não se esqueceu de você, o barro no fogo fica duro e sai preparado para qualquer situação.
-Reflexão  Imagine, Deus é tão sábio que nos fez de barro, se de barro os homens estão a fazer tráfego de órgão, imagina se fossemos de ouro?? 
+Reflexão  Imagine, Deus é tão sábio que nos fez de barro, se de barro os homens estão a fazer tráfego de órgão, imagina se fossemos de ouro?
 
-Deus te ama e está com você! Seja um vaso que carrega o Espírito Santo dia pois dia, isso é o valor que terás por dentro Amém
+Deus te ama e está com você! Seja um vaso que carrega o Espírito Santo dia pois dia, isso é o valor que terás por dentro Amém!.
                                   
