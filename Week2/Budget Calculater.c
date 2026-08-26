@@ -15,7 +15,6 @@ printf("Enter total expenses: ");
 scanf("%lf", &expenses);
 
 balance = revenue - expenses;
-
 printf("\nRevenue: %.2f\n", revenue); 
 printf("Expenses: %.2f\n", expenses);
 
