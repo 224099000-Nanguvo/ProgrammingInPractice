@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main () {
-double revenue;
-double expenses;
-double balance;
+double revenue = 0.00;
+double expenses = 0.00;
+double balance = 0.00;
 
 printf("MUNICIPAL BUDGET CALCULATIONS\n");
 printf(".............................\n");
